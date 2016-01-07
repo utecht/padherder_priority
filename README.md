@@ -1,5 +1,13 @@
 # padherder_priority
 
-Requires requests
+Requirements
+------------
 
-Should work in either python 2 or 3.  Just run and follow instructions.
+- A [PADHerder](https://www.padherder.com) account
+- Python 2/3
+- Requests python module
+
+Usage
+------
+`python mass_change.py`
+Follow instructions on screen.
