@@ -5,7 +5,7 @@ Requirements
 ------------
 - A [PADHerder](https://www.padherder.com) account
 - Python 2/3
-- Requests python module
+- [Requests](http://docs.python-requests.org/en/latest/) python module
 
 Usage
 ------
